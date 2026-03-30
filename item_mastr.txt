@@ -1,3 +1,0 @@
-item_id,item_name
-1,cake
-2,juice
